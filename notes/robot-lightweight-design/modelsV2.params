@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ParameterManager Version="110">
+
+  <ParameterTemplates>
+    <ParameterTemplate ID="CA83BBD9-604E-4CC8-8CEA-155DFC96B712">
+      <Access>Output</Access>
+      <LowerBound>-Infinity</LowerBound>
+      <UpperBound>Infinity</UpperBound>
+    </ParameterTemplate>
+    <ParameterTemplate ID="e714c2bc-780c-4ae9-b44e-9d7b7a7d33fe">
+      <Access>Input</Access>
+      <LowerBound>-Infinity</LowerBound>
+      <UpperBound>Infinity</UpperBound>
+    </ParameterTemplate>
+  </ParameterTemplates>
+
+  <DistributionManager/>
+
+  <ExpressionIds/>
+
+  <ConfigurationManager/>
+
+</ParameterManager>
