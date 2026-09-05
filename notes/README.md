@@ -52,3 +52,12 @@
 
 Dyinch，正在系统学习机器人轻量化设计。  
 欢迎交流：1965850691@qq.com
+
+
+## 🔥 PEEK Die CAD and Thermal
+
+已有二维浸渍模具图纸的 SolidWorks 建模与初始热分析实践，承接轻量化连杆项目。当前为待执行计划。
+
+- [[robot-lightweight-design/notes/03-仿真案例/🔥 PEEK Die CAD and Thermal/🔥 PEEK Die CAD and Thermal|🔥 PEEK Die CAD and Thermal]] — 项目目标、能力迁移与交付标准
+- [[robot-lightweight-design/notes/03-仿真案例/🔥 PEEK Die CAD and Thermal/📅 Two-Week Execution Plan|📅 Two-Week Execution Plan]] — 每日任务、周里程碑与休息日
+- [[robot-lightweight-design/notes/03-仿真案例/🔥 PEEK Die CAD and Thermal/🌡️ Thermal Analysis Workbook|🌡️ Thermal Analysis Workbook]] — 参数来源、边界条件与结果记录
